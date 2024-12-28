@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="903c7e77-d04f-4017-874d-773473f27546" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/app/Http/Controllers/CustomerController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/app/Http/Controllers/OrderController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/app/Http/Controllers/OrderDetailController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/app/Http/Controllers/ProductController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/app/Models/Customer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/app/Models/Order.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/app/Models/Order_detail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/app/Models/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/app/Models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/bootstrap/providers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/migrations/0001_01_01_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/migrations/0001_01_01_000001_create_cache_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/migrations/0001_01_01_000002_create_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/migrations/2024_12_27_172440_create_products_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/migrations/2024_12_27_172534_create_customers_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/migrations/2024_12_27_172545_create_orders_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/migrations/2024_12_27_172552_create_order_details_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/seeders/CustomerSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/seeders/OrderDetailSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/seeders/OrderSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/database/seeders/ProductSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/views/Customers/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/views/Customers/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/views/Customers/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/views/Orders/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/views/Orders/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/views/Products/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/views/Products/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/views/Products/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/storage/app/private/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cau2_bth4/vite.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cau2_bth4" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tida-tr"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dong2072004/bth4_c2.git",
+    "accountId": "221930b3-15ed-4462-a43e-054a8216089b"
+  }
+}]]></component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="D:\laragon\bin\php\php-8.1.10-Win32-vs16-x64\php.exe" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2qqeekepl0xRiH8rZgyL4jGqjfT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/Hoc_Tap/3. Nam Ba/Nam Ba Ky 1/CN Web/BTTH4/TH4/cau2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="903c7e77-d04f-4017-874d-773473f27546" name="Changes" comment="" />
+      <created>1735394630616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735394630616</updated>
+      <workItem from="1735394632717" duration="2085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

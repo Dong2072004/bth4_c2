@@ -16,9 +16,10 @@ class OrderController extends Controller
      */
     public function index()
     {
-        $orders = Order::all();
+        $orders = Order::with(['customer', 'products'])->get(); // Tải quan hệ customer và products
         return view('orders.index', compact('orders'));
     }
+
 
     /**
      * Show the form for creating a new resource.
@@ -65,8 +66,10 @@ class OrderController extends Controller
      */
     public function show(string $id)
     {
-        //
+        $order = Order::with(['customer', 'products'])->findOrFail($id); // Tải quan hệ liên quan
+        return view('orders.show', compact('order'));
     }
+
 
     /**
      * Show the form for editing the specified resource.
